@@ -2,7 +2,7 @@ package org.michaelahlers
 
 class SHelloWorld {
   def printMessage() = {
-    println("Hello from Scala!")
+    println("Hello from Scala !!")
   }
 }
 
